@@ -2645,3 +2645,15 @@ java.lang.IllegalStateException: Builder must not be set
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-15 15:44:49.006
 !MESSAGE Classpath changed for project: BookStoreApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-15 16:22:23.831
+!MESSAGE Classpath changed for project: JPAApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-15 16:22:27.406
+!MESSAGE Classpath changed for project: JPAApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-15 16:22:27.408
+!MESSAGE Boot project ADDED: JPAApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-15 16:22:30.020
+!MESSAGE Classpath changed for project: JPAApp
