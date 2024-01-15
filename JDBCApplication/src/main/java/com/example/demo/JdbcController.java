@@ -17,7 +17,7 @@ public class JdbcController {
 	}
 	@RequestMapping("/delete")
 	public String delete() {
-		jtemp.update("delete from user where Name='Ashu'");
+		jtemp.update("delete from user where Name='swami'");
 		return "<h1>Record Deleted...</h1>";
 	}
 	
